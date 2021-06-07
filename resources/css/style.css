@@ -31,3 +31,8 @@ a {
 .photoContainer {
   padding-bottom: 1rem;
 }
+
+footer p {
+  color: hsl(0, 0%, 50%);
+  text-align: right;
+}
